@@ -1,4 +1,3 @@
-// scripts/server-side-scripts/main.go
 package main
 
 import (
