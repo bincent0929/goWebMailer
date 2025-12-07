@@ -1,7 +1,7 @@
-This GO app is used in tandem with my website in order to send an email when a user submits information in a form on the website.
+Made for an updated version of roberson-ins.com that can be found [here](https://github.com/bincent0929/roberson-ins.com).
 
-This is specifically for submitting for further contact on a website.
+This can be used as a backend to send simple emails to someone at your company after someone on your website or program inputs and submits.
 
-You can see the organization of the field by looking at the code.
+***
 
-You can look at my roberson-ins.com repository for how the application hooks into the HTML and HTMX.
+To develop this repository, you just need to download the devcontainer extension and open the folder in the container.
